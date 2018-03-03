@@ -38,7 +38,7 @@ Like `npm start`, but also attempts to open your app in the iOS Simulator if you
 
 Like `npm start`, but also attempts to open your app on a connected Android device or emulator. Requires an installation of Android build tools (see [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html) for detailed setup). We also recommend installing Genymotion as your Android emulator. Once you've finished setting up the native build environment, there are two options for making the right copy of `adb` available to Create React Native App:
 
-##Screenshots
+## Screenshots
 
-!["Screenshot of Page"](https://github.com/surfman-k/cryptocurrencies-react-native/blob/master/github-screens/IMG_5398.PNG?raw=true)
+!["Screenshot of Page"](https://github.com/surfman-k/cryptocurrencies-react-native/blob/master/github-screens/IMG_5398.PNG =1334x750)
 
