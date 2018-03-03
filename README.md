@@ -40,5 +40,5 @@ Like `npm start`, but also attempts to open your app on a connected Android devi
 
 ## Screenshots
 
-!["Screenshot of Page"](https://github.com/surfman-k/cryptocurrencies-react-native/blob/master/github-screens/IMG_5398.PNG =1334x750)
+<img src="https://github.com/surfman-k/cryptocurrencies-react-native/blob/master/github-screens/IMG_5398.PNG?raw=true" width="750" height="1334">
 
